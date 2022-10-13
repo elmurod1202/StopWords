@@ -1,5 +1,4 @@
-# StopWrords
-Automatic detection of stopwords for Uzbek
+# StopWords: Automatic detection of stopwords for Uzbek
 
 Feel free to use the dataset(aka "School Corpus") and the code presented in this repo, a paper about more details with the same title is coming soon.
 
