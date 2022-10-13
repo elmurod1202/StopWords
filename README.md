@@ -10,11 +10,15 @@ In this work, the “School corpus” which contains 731156 Uzbek words has been
 
 
 The methodology used for this research work:
-![The Methodology](https://github.com/elmurod1202/StopWrords/blob/main/src/schema.jpg)
+<div align="center">
+<img src="https://github.com/elmurod1202/StopWrords/blob/main/src/schema.jpg?raw=true" width = "600" Alt = "The Methodology">
+</div>
 Figure: Scheme of the whole process.
 
 
 
 The results obtained in this research work:
-![Main Results Figure](https://github.com/elmurod1202/StopWrords/blob/main/src/results.jpg)
+<div align="center">
+<img src="https://github.com/elmurod1202/StopWrords/blob/main/src/results.jpg?raw=true" width = "600" Alt = "The Methodology">
+</div>
 Figure: Comparison of the methods used.
