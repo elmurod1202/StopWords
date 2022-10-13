@@ -8,6 +8,8 @@ Stop words are very important for information retrieval and text analysis invest
 
 In this work, the “School corpus” which contains 731156 Uzbek words has been investigated. The bigram method of analysis was applied to the corpus. We proposed the collocation method of detecting stop words of the corpus. We proposed the method of automatically detecting stop words of texts in Uzbek. It is shown that the collocation method is 6 times better than the bigram method.
 
+The "School Corpus" used in this work can also be found at this link: [https://zenodo.org/record/6319953](https://zenodo.org/record/6319953).
+
 
 The methodology used for this research work:
 <div align="center">
